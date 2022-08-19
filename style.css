@@ -1,0 +1,25 @@
+body{
+    background-color: #f7d794;
+}
+h1{
+    color: #6D214F;
+}
+button{
+    background-color: #ea8685;
+    color: black;
+}
+h3{
+    color: #e15f41;
+    
+}
+img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+}
+#camera{
+    width: 360px;
+    height: 250px;
+    border: 1px black;
+
+}
